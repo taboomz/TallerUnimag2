@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TallerUnimag2</string>
+    <string name="menuAlea">Aleatorio</string>
+    <string name="Distanciamenu">Distancia</string>
+    <string name="x1">X1</string>
+    <string name="cy1">Y1</string>
+    <string name="cx2">X2</string>
+    <string name="cy2">Y2</string>
+    <string name="botonPM">Punto Medio</string>
+    <string name="botonPendiente">Pendiente</string>
+    <string name="botonCuadrante">Cuadrante</string>
+</resources>
